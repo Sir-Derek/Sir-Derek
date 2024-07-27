@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Bais</h1>
 <h3 align="center">A Passionate Backend Developer and a problem solver</h3>
 
-- 🔭 I’m currently working on **Bus Management Web App.**
+-  I’m currently working on **Bus Management Web App.**
 
-- 📫 How to reach me **akashbais41203@gmail.com**
+-  How to reach me **akashbais41203@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
